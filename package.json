@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ladarit/webpack-extract-permission-keys-regex.git"
+    "url": "git@github.com:ladarit/webpack-extract-permission-keys-regex.git"
   },
   "keywords": [
     "webpack",
