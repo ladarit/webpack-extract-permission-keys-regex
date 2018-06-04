@@ -1,7 +1,7 @@
 {
-  "name": "webpack-extract-translation-keys-regex-plugin",
-  "version": "1.0.1",
-  "description": "Webpack plugin to extract list of used translation keys from included modules, using regular expressions.",
+  "name": "webpack-extract-permission-keys-regex-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin to extract list of used permission keys from included modules, using regular expressions.",
   "main": "index.js",
   "files": [
     "index.js",
@@ -9,12 +9,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:ktunkiewicz/webpack-extract-translation-keys-regex.git"
+    "url": "https://github.com/ladarit/webpack-extract-permission-keys-regex.git"
   },
   "keywords": [
     "webpack",
     "webpack-plugin"
   ],
-  "author": "Kamil Tunkiewicz <kamil.tunkiewicz@gmail.com>",
+  "author": "forked from Kamil Tunkiewicz <kamil.tunkiewicz@gmail.com>",
   "license": "Apache-2.0"
 }
